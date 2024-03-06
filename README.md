@@ -22,10 +22,7 @@
 <br><br><br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/mirnaembaby/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mirnaembaby&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
   </div>
   <br>
   <div align=center>

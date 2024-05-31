@@ -3,6 +3,8 @@
 <h3 align="center">A fresh graduate, Flutter Developer with a Business Intelligence background.</h3>
 
 ## Contacts:
+mirnaembaby@gmail.com
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mirna.embaby) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirna.embaby) 
 
 # Tech Stack:

@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, Mirna Embaby here!</h1>
-<h3 align="center">A fresh graduate, Flutter Developer with a Business Intelligence background.</h3>
+<h3 align="center">Just a fresh graduate, Flutter Developer.</h3>
 
 ## Contacts:
 mirnaembaby@gmail.com

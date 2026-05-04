@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, Mirna Embaby here!</h1>
-<h3 align="center">Just a fresh graduate, Flutter Developer.</h3>
+<h3 align="center">Ai Engineer - MSc Student at Queen's University, Canada</h3>
 
 ## Contacts:
 mirnaembaby@gmail.com
